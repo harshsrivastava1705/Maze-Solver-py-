@@ -1,9 +1,9 @@
 This program enables automatic solving of mazes with customizable grid sizes. The user input/output is as follows:
 
 
-Enter grid size(x,y):
-4 4
-Enter grid: 1 for open block 0 for closed:
+Enter grid size(x,y): <br>
+4 4 <br>
+Enter grid: 1 for open block 0 for closed:<br>
 1 1 1 1
 1 0 0 0
 1 1 1 0
