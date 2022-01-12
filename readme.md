@@ -1,5 +1,6 @@
 This program enables automatic solving of mazes with customizable grid sizes. The user input/output is as follows:
-
+<br>
+Bottom left of the grid is assumed to be the start position while top right being the finish. <br>
 
 Enter grid size(x,y): <br>
 4 4 <br>
