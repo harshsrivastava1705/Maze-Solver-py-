@@ -4,20 +4,20 @@ This program enables automatic solving of mazes with customizable grid sizes. Th
 Enter grid size(x,y): <br>
 4 4 <br>
 Enter grid: 1 for open block 0 for closed:<br>
-1 1 1 1
-1 0 0 0
-1 1 1 0
-1 0 0 0
-Done4
-Done1
-Done1
-Done4
-Done4
-Done1
-Done1
-Done1
-['Up', 'Up', 'Up', 'Right', 'Right', 'Right']
+1 1 1 1 <br>
+1 0 0 0 <br>
+1 1 1 0 <br>
+1 0 0 0 <br>
+Done4 <br>
+Done1 <br>
+Done1 <br>
+Done4 <br>
+Done4 <br>
+Done1 <br>
+Done1 <br>
+Done1 <br>
+['Up', 'Up', 'Up', 'Right', 'Right', 'Right'] <br>
 
-
-The "DoneX" statements are there to analyse the original path taken during the runthrough and track the backtracking done within.
+ <br>
+The "DoneX" statements are there to analyse the original path taken during the runthrough and track the backtracking done within. <br>
 Have fun :)
